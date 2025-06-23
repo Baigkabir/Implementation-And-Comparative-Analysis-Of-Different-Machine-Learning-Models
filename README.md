@@ -151,11 +151,3 @@ Released under the **MIT License** – see [`LICENSE`](LICENSE).
 `data/healthcare-dataset-stroke-data*.csv` is © the original Kaggle contributor and is redistributed here under **CC0 1.0 Public Domain Dedication**. See [`data/LICENSE_dataset`](data/LICENSE_dataset) for details.
 
 ---
-
-## Citation
-
-If you build upon this work, please cite:
-
-> **Baig, K.** “Implementation & Comparative Analysis of Different Machine Learning Models.” Hochschule Rhein‑Waal, 2024.
-
----
