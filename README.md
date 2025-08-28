@@ -140,12 +140,6 @@ Pull requests are welcome! Please open an issue to discuss major changes before 
 
 ---
 
-## License
-
-### Source Code
-
-Released under the **MIT License** – see [`LICENSE`](LICENSE).
-
 ### Dataset Licence
 
 `data/healthcare-dataset-stroke-data*.csv` is © the original Kaggle contributor and is redistributed here under **CC0 1.0 Public Domain Dedication**. See [`data/LICENSE_dataset`](data/LICENSE_dataset) for details.
